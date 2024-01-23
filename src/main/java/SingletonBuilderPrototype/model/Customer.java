@@ -1,4 +1,4 @@
-package Singleton.model;
+package SingletonBuilderPrototype.model;
 
 public class Customer implements Cloneable{
     Long id;

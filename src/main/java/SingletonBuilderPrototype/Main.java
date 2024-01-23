@@ -1,12 +1,10 @@
-package Singleton;
+package SingletonBuilderPrototype;
 
-import Singleton.model.*;
-import Singleton.repository.AccountRepositoryImpl;
+import SingletonBuilderPrototype.model.*;
+import SingletonBuilderPrototype.repository.AccountRepositoryImpl;
 
 import java.io.IOException;
-import java.util.Arrays;
 import java.util.List;
-import java.util.function.Predicate;
 
 public class Main {
     public static void main(String[] args) throws IOException {

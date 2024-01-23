@@ -1,6 +1,6 @@
-package Singleton.repository;
+package SingletonBuilderPrototype.repository;
 
-import Singleton.model.BankAccount;
+import SingletonBuilderPrototype.model.BankAccount;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,7 +1,4 @@
-package Singleton.model;
-
-import Singleton.model.AccountStatus;
-import Singleton.model.AccountType;
+package SingletonBuilderPrototype.model;
 
 public class BankAccount implements Cloneable{
     private Long accountId ;

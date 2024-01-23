@@ -1,4 +1,4 @@
-package Singleton.model;
+package SingletonBuilderPrototype.model;
 
 public class Director {
     public static BankAccount.AccountBuilder accountBuilder(){

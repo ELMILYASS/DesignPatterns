@@ -1,9 +1,9 @@
-package Singleton.repository;
+package SingletonBuilderPrototype.repository;
 
-import Singleton.model.AccountStatus;
-import Singleton.model.AccountType;
-import Singleton.model.BankAccount;
-import Singleton.model.Director;
+import SingletonBuilderPrototype.model.AccountStatus;
+import SingletonBuilderPrototype.model.AccountType;
+import SingletonBuilderPrototype.model.BankAccount;
+import SingletonBuilderPrototype.model.Director;
 
 import java.util.HashMap;
 import java.util.List;
