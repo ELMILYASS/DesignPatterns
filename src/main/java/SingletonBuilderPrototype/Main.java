@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.List;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) throws IOException, InterruptedException {
 
         AccountRepositoryImpl accountRepository = AccountRepositoryImpl.getInstance();
         for (int i = 0; i < 10; i++) {
@@ -39,7 +39,7 @@ public class Main {
         System.out.println(account1);
         System.out.println(account2);
         System.out.println("***************");
-        customer.setName("update customer 1");
+        customer.setName("update customer 1") ;
         System.out.println(account1);
         System.out.println(account2);
 
@@ -48,3 +48,4 @@ public class Main {
 
 
 }
+
