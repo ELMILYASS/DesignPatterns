@@ -1,4 +1,4 @@
-package SingletonBuilderPrototype.SingletonEnum;
+package SingletonEnum;
 
 public enum Singleton {
     INSTANCE;

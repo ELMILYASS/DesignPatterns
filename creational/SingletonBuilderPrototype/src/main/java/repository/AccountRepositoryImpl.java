@@ -1,4 +1,4 @@
-package SingletonBuilderPrototype.repository;
+package repository;
 
 import SingletonBuilderPrototype.model.AccountStatus;
 import SingletonBuilderPrototype.model.AccountType;

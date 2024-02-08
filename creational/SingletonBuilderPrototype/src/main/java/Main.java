@@ -1,5 +1,3 @@
-package SingletonBuilderPrototype;
-
 import SingletonBuilderPrototype.model.*;
 import SingletonBuilderPrototype.repository.AccountRepositoryImpl;
 

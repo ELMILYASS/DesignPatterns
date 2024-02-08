@@ -1,4 +1,4 @@
-package SingletonBuilderPrototype.model;
+package model;
 
 public class BankAccount implements Cloneable{
     private Long accountId ;
