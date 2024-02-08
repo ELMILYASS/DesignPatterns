@@ -1,10 +1,8 @@
-  /*
-   * Video Reference: https://youtu.be/TS5i-uPXLs8
-   */
+
 import example.internet.Internet;
 import example.internet.ProxyInternet;
-import example.video.ProxyVideoDownloader;
-import example.video.VideoDownloader;
+import example.video.CachedLibrary;
+import example.video.BookProvider;
 
   public class MainApp {
 
@@ -17,12 +15,12 @@ import example.video.VideoDownloader;
 
         System.out.println("==========================================");
 
-        VideoDownloader videoDownloader = new ProxyVideoDownloader();
-        videoDownloader.getVideo("geekific");
-        videoDownloader.getVideo("geekific");
-        videoDownloader.getVideo("likeNsub");
-        videoDownloader.getVideo("likeNsub");
-        videoDownloader.getVideo("geekific");
+        BookProvider bookProvider = new CachedLibrary();
+        bookProvider.getBook("The Great Gatsby");
+        bookProvider.getBook("The Great Gatsby");
+        bookProvider.getBook("To Kill a Mockingbird");
+        bookProvider.getBook("To Kill a Mockingbird");
+        bookProvider.getBook("The Great Gatsby");
 
     }
 
