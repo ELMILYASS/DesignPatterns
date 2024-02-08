@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/behavioral/chain-of-responsibility/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/chain-of-responsibility/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/observer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/observer/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/behavioral/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/strategy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/behavioral/strategy/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creational/SingletonBuilderPrototype/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creational/SingletonBuilderPrototype/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational/abstract-factory/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational/abstract-factory/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational/factory-method/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/creational/factory-method/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creational/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/creational/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/adapter/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/adapter/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/bridge/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/bridge/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/composite/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/composite/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/decorator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/decorator/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/facade/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/structural/facade/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/structural/src/main/resources" charset="UTF-8" />
   </component>

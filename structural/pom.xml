@@ -11,6 +11,15 @@
 
     <groupId>net.ilyass</groupId>
     <artifactId>structural</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>adapter</module>
+        <module>bridge</module>
+        <module>composite</module>
+        <module>decorator</module>
+        <module>facade</module>
+        <module>proxy</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
