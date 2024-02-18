@@ -17,6 +17,7 @@
         <module>behavioral/observer</module>
         <module>behavioral/chain-of-responsibility</module>
         <module>behavioral/visitor</module>
+        <module>behavioral/command</module>
     </modules>
 
     <properties>
