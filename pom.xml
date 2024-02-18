@@ -18,6 +18,7 @@
         <module>behavioral/chain-of-responsibility</module>
         <module>behavioral/visitor</module>
         <module>behavioral/command</module>
+        <module>behavioral/memento</module>
     </modules>
 
     <properties>
