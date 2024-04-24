@@ -1,6 +1,7 @@
 package decorator;
 
-import Decorator.produits.Boisson;
+
+import produits.Boisson;
 
 
 public class Chocolat extends DecorateurBoisson {

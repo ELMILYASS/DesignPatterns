@@ -1,7 +1,10 @@
-import ChainOfResponsibility.handlers.Handler;
-import ChainOfResponsibility.handlers.RoleCheckHandler;
-import ChainOfResponsibility.handlers.UserExistsHandler;
-import ChainOfResponsibility.handlers.ValidPasswordHandler;
+
+import handlers.Handler;
+import handlers.RoleCheckHandler;
+import handlers.UserExistsHandler;
+import handlers.ValidPasswordHandler;
+import services.AuthService;
+import services.Database;
 
 //Example of Geekific "https://www.youtube.com/c/Geekific"
 

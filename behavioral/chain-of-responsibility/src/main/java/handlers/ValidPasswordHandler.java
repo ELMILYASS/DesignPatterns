@@ -1,6 +1,6 @@
 package handlers;
 
-import ChainOfResponsibility.Database;
+import services.Database;
 
 public class ValidPasswordHandler extends Handler{
     private final Database database;

@@ -1,6 +1,7 @@
-import Adapter.adapter.HdmiVgaAdapter;
-import Adapter.adapter.HdmiVgaAdapterH;
-import Adapter.computer.*;
+
+import adapter.HdmiVgaAdapter;
+import adapter.HdmiVgaAdapterH;
+import computer.*;
 
 public class Test {
 

@@ -1,14 +1,15 @@
 package HP;
 
-import AbstractFactory.Factory;
-import AbstractFactory.Gpu;
-import AbstractFactory.Monitor;
+
+import resources.Factory;
+import resources.Gpu;
+import resources.Monitor;
 
 public class HpFactory extends Factory {
     @Override
     public Monitor createMonitor() {
 
-        return  new HpMonitor();
+        return new HpMonitor();
     }
 
     @Override

@@ -1,5 +1,7 @@
-import AbstractFactory.HP.HpFactory;
-import AbstractFactory.MAC.MacFactory;
+import HP.HpFactory;
+import MAC.MacFactory;
+import resources.Gpu;
+import resources.Monitor;
 
 public class Main {
     public static void main(String[] args) {

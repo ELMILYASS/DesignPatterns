@@ -1,4 +1,6 @@
-import ChainOfResponsibility.handlers.Handler;
+package services;
+
+import handlers.Handler;
 
 public class AuthService {
     private final Handler handler;

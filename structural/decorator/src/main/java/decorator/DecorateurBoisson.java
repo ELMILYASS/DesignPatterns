@@ -1,6 +1,7 @@
 package decorator;
 
-import Decorator.produits.Boisson;
+
+import produits.Boisson;
 
 public abstract class DecorateurBoisson extends Boisson {
     protected Boisson boisson;

@@ -1,8 +1,9 @@
 package MAC;
 
-import AbstractFactory.Factory;
-import AbstractFactory.Gpu;
-import AbstractFactory.Monitor;
+
+import resources.Factory;
+import resources.Gpu;
+import resources.Monitor;
 
 public class MacFactory extends Factory {
     @Override

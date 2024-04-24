@@ -1,6 +1,6 @@
 package HP;
 
-import AbstractFactory.Monitor;
+import resources.Monitor;
 
 public class HpMonitor implements Monitor {
     @Override

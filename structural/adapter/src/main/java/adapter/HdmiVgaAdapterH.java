@@ -1,8 +1,8 @@
 package adapter;
 
-import Adapter.computer.Hdmi;
-import Adapter.computer.TV;
-import Adapter.computer.Vga;
+
+import computer.TV;
+import computer.Vga;
 
 public class HdmiVgaAdapterH extends TV implements Vga {
 

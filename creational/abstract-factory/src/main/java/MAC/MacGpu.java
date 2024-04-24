@@ -1,6 +1,7 @@
 package MAC;
 
-import AbstractFactory.Gpu;
+
+import resources.Gpu;
 
 public class MacGpu implements Gpu {
     @Override

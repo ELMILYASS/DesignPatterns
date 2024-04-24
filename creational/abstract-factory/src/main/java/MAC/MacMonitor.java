@@ -1,6 +1,7 @@
 package MAC;
 
-import AbstractFactory.Monitor;
+
+import resources.Monitor;
 
 public class MacMonitor implements Monitor {
     @Override

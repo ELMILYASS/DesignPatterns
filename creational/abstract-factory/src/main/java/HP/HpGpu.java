@@ -1,6 +1,6 @@
 package HP;
 
-import AbstractFactory.Gpu;
+import resources.Gpu;
 
 public class HpGpu implements Gpu {
     @Override

@@ -1,8 +1,9 @@
-import Decorator.decorator.Chocolat;
-import Decorator.decorator.Noisette;
-import Decorator.decorator.Vanille;
-import Decorator.produits.Boisson;
-import Decorator.produits.Sumatra;
+
+import decorator.Chocolat;
+import decorator.Noisette;
+import decorator.Vanille;
+import produits.Boisson;
+import produits.Sumatra;
 
 import java.io.*;
 import java.util.zip.ZipOutputStream;

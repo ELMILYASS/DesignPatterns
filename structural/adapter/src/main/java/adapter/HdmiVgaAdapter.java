@@ -1,7 +1,8 @@
 package adapter;
 
-import Adapter.computer.Hdmi;
-import Adapter.computer.Vga;
+
+import computer.Hdmi;
+import computer.Vga;
 
 public class HdmiVgaAdapter implements Vga {
     private Hdmi hdmi;

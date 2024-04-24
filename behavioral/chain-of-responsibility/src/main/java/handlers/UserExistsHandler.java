@@ -1,6 +1,7 @@
 package handlers;
 
-import ChainOfResponsibility.Database;
+
+import services.Database;
 
 public class UserExistsHandler extends Handler{
     private final Database database;
