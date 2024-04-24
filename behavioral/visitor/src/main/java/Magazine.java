@@ -16,3 +16,5 @@ public class Magazine implements Visitable{
         visitor.visit(this);
     }
 }
+
+
