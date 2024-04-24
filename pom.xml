@@ -19,6 +19,7 @@
         <module>behavioral/visitor</module>
         <module>behavioral/command</module>
         <module>behavioral/memento</module>
+        <module>creational/ObjectPoolPattern</module>
     </modules>
 
     <properties>
